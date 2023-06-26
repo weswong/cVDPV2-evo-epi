@@ -1,0 +1,12 @@
+{"fecal_oral_dose" : 1.5e-6,
+            "hh_transmission" : 1,
+            "beta_hh" : 2,
+            "bari_transmission" : 1,
+            "beta_bari" : 20,
+            "village_transmission" : 1,
+            "beta_village" : 50,
+            "age_assortivity": 0,
+            "beta_inter_village":50,
+            
+            "global_transmission" : 0,
+            "beta_global" : 500}
